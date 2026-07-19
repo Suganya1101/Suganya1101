@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Computer+Science+and+Business+Systems+Student;Aspiring+Software+Engineer;AI+%7C+Cloud+%7C+Open+Source;Always+Learning+Something+New"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8B0000&style=for-the-badge"/>
-
 </div>
 
 ---
