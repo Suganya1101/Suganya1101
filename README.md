@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔥 Hi, I'm Sugan 👋
+# 🔥 Hi, I'm Suganya 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Aspiring+Software+Engineer;AI+%7C+Cloud+%7C+Open+Source;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Computer+Science+And+Businees+System+Student;Aspiring+Software+Engineer;AI+%7C+Cloud+%7C+Open+Source;Always+Learning+Something+New" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🩸 About Me
 
-- 🎓 Computer Science Student
+- 🎓 Computer Science And Business System Student
 - 💻 Passionate about Software Development
 - 🤖 Exploring AI & Machine Learning
 - ☁️ Learning Cloud Computing
