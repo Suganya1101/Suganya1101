@@ -1,136 +1,183 @@
 <div align="center">
 
-# ❤️ Hi, I'm Suganya
+# 👋 Hey, I'm Suganya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Computer+Science+and+Business+Systems+Student;Aspiring+Software+Engineer;AI+%7C+Cloud+%7C+Open+Source;Always+Learning+Something+New"/>
+### `CSBS Student` • `Developer` • `AI/ML Explorer` • `Cloud Learner`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+ideas+into+projects+%F0%9F%9A%80;Exploring+AI%2FML+%F0%9F%A4%96;Learning+Cloud+%26+AWS+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%96%A4" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/Suganya1101">
+<img src="https://img.shields.io/github/followers/Suganya1101?label=Followers&style=for-the-badge&color=21262d&labelColor=0d1117">
+</a>
+<a href="https://github.com/Suganya1101?tab=repositories">
+<img src="https://img.shields.io/github/stars/Suganya1101?label=Stars&style=for-the-badge&color=21262d&labelColor=0d1117">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Suganya1101&style=for-the-badge&color=21262d&labelColor=0d1117&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-# 🩸 About Me
+<div align="center">
 
-```yaml
-Name: Suganya
-Education: B.Tech Computer Science and Business Systems
-Passion:
-  - Software Development
-  - Artificial Intelligence
-  - Cloud Computing
-Currently Learning:
-  - Azure
-  - Machine Learning
-  - Data Structures & Algorithms
-Goal:
-  Become a Software Engineer
-```
+## `// ABOUT ME`
 
-- 🎓 CSBS Student
-- 💻 Software Developer
-- 🤖 AI & Machine Learning Enthusiast
-- ☁️ Cloud Learner
-- 🚀 Open Source Explorer
-
----
-
-# ⚔️ Languages & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,r,html,css,js,mysql,git,github,vscode,azure&theme=dark"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=000000"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=000000"/>
-
-</p>
-
----
-
-# 📉 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🚀 Current Focus
+</div>
 
 ```text
-🌐 Full Stack Development
-🤖 Artificial Intelligence
-☁️ Azure Cloud
-📚 Data Structures & Algorithms
-💼 Software Engineering
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🎓  Computer Science & Business Systems                 │
+│  💻  Interested in software development                  │
+│  🤖  Exploring AI & Machine Learning                     │
+│  ☁️  Learning Cloud Computing & AWS                      │
+│  🐍  Python enthusiast                                   │
+│  🚀  Building projects and experimenting with ideas      │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
-
----
-
-# 💡 Quote
-
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=red"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=red"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### ❤️ Code • Learn • Build • Repeat
+## `// TECH STACK`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:000000,50:8B0000,100:FF0000&section=footer"/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java,sql" />
+
+### Web & Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" />
+
+### Data • AI/ML • Cloud
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,aws" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `// GITHUB STATS`
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suganya1101&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suganya1101&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CONTRIBUTION STREAK`
+
+<img src="https://streak-stats.demolab.com?user=Suganya1101&theme=github-dark-blue&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `// FEATURED PROJECTS`
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 Customer Churn Prediction
+
+Machine Learning project focused on predicting customer churn and identifying patterns that influence customer retention.
+
+**Tech:** `Python` `Pandas` `Scikit-learn`
+
+</td>
+
+<td width="50%">
+
+### 🚕 NYC Taxi Trip Duration
+
+Machine Learning project exploring taxi trip data and predicting trip duration using data preprocessing and regression techniques.
+
+**Tech:** `Python` `Pandas` `Scikit-learn`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 RED-X Portfolio
+
+A personal portfolio project showcasing projects, skills and development work.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🧪 MY PROJECTS
+
+A collection of projects, experiments and things I'm currently building.
+
+**Status:** `Learning • Building • Improving`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `// CURRENTLY LEARNING`
+
+```text
+AI / ML          ███████████████░░░░░
+Cloud / AWS      ████████████░░░░░░░░
+Python           ████████████████░░░░
+Web Development  ██████████████░░░░░░
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `// ACTIVITY`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suganya1101&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `// CONNECT`
+
+<a href="https://github.com/Suganya1101">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
+
+### `Thanks for visiting my profile 🖤`
 
 </div>
