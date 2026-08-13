@@ -1,12 +1,20 @@
 """
-Entry point the workflow calls. Right now this just writes placeholder
-files so the pipeline (checkout -> generate -> commit-if-changed) works
-end to end. Swap in the real portrait + stats logic next.
+Entry point the workflow calls.
+
+Portrait now uses the real pipeline (scripts/portrait.py) if a source
+photo exists at assets/photo.jpg. If it's missing, or something in the
+pipeline fails, we fall back to a placeholder so the workflow never
+breaks the whole profile over a photo problem.
+
+Stats graphics (stats/streak/languages/year) are still placeholders --
+that's the next piece to build.
 """
 import os
+import traceback
 from datetime import datetime, timezone
 
 GH_LOGIN = os.environ.get("GH_LOGIN", "unknown")
+PHOTO_PATH = "assets/photo.jpg"
 
 
 def write_placeholder_svg(path: str, label: str) -> None:
@@ -20,8 +28,24 @@ def write_placeholder_svg(path: str, label: str) -> None:
         f.write(svg)
 
 
+def build_portrait() -> None:
+    if not os.path.exists(PHOTO_PATH):
+        print(f"no photo found at {PHOTO_PATH}, writing placeholder")
+        write_placeholder_svg("portrait.svg", "portrait placeholder (no photo uploaded yet)")
+        return
+    try:
+        from portrait import generate_portrait
+        generate_portrait(PHOTO_PATH, "portrait.svg")
+        print("portrait.svg generated from photo")
+    except Exception:
+        print("portrait generation failed, falling back to placeholder:")
+        traceback.print_exc()
+        write_placeholder_svg("portrait.svg", "portrait placeholder (generation failed)")
+
+
 def main() -> None:
-    write_placeholder_svg("portrait.svg", "portrait placeholder")
+    build_portrait()
+
     write_placeholder_svg("stats.svg", "stats placeholder")
     write_placeholder_svg("streak.svg", "streak placeholder")
     write_placeholder_svg("languages.svg", "languages placeholder")
