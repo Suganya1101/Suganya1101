@@ -1,6 +1,6 @@
 pillow
 numpy
 opencv-python-headless
-rembg
+rembg[cpu]
 fonttools
 brotli
